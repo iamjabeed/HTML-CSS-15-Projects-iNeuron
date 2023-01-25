@@ -19,4 +19,4 @@
 
 ### Technologies used:<br>
 HTML <br>
-Tailwind css
+CSS
