@@ -15,8 +15,3 @@
 ### [Project-13](https://github.com/iamjabeed/SAAS-Landing-Page)
 ### [Project-14](https://github.com/iamjabeed/Creativity-Landing-package)
 ### [Project-15](https://github.com/iamjabeed/visual-designer-landingpage)
-
-
-### Technologies used:<br>
-HTML <br>
-CSS
